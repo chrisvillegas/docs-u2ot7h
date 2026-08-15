@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-e65x55.kujang138gold.online/sitemap.xml
